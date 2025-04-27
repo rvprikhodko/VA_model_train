@@ -1,0 +1,14 @@
+jupyter
+pillow
+torch
+numpy
+antspyx
+torchvision
+matplotlib
+tqdm
+scikit-learn
+scikit-image
+simpleitk
+pandas
+opencv-python
+cuda-python
